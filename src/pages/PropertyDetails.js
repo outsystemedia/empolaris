@@ -81,8 +81,12 @@ const PropertyDetails = () => {
           </div>
       <div className='flex flex-col items-start gap-8 lg:flex-row'>
         <div className='max-w-[768px]'>
+            <div className='mb-8'>
+              <img src={property.fachada} alt='' />
+            </div>
           <div className='mb-8'>
             <div>
+              <h2 className='text-2xl font-semibold'>Detalhes</h2>
               <Carousel showThumbs={false} autoPlay={false} showArrows={true} infiniteLoop={true}>
                 {
                   property.carouselData.map((item,index)=>(
@@ -103,6 +107,7 @@ const PropertyDetails = () => {
           <p>{property.description}</p>
           <br></br>
           <div className='max-w-[768px]'>
+            <h2 className='text-2xl font-semibold'>Localização</h2>
             <div className='mb-8'>
               <img src={property.location} alt='' />
             </div>

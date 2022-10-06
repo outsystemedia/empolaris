@@ -92,11 +92,8 @@ export const housesData = [
     description:
       'Criada a partir de um conceito arquitetônico moderno e com detalhes que encantam, a casa Eccho transborda imponência em cada linha do projeto. São 370m² construídos contando com design em conceito aberto, integralizando ambientes, ampla iluminação natural e ventilação cruzada. Casa com 4 suítes, sendo 1 suíte master, amplo espaço gourmet com piscina planejada, cozinha e sala de jantar integralizados em conceito aberto. São alguns dos detalhes que apaixonam e ambientam esta casa no primeiro bairro parque do Brasil.',
     image: EcchoHouse,
+    fachada: Eccho1Lg,
     carouselData: [
-      {
-        image: Eccho1Lg,
-        video: ''
-      },
       {
         image: '',
         video: 'https://player.vimeo.com/video/756466271?h=9e884055ab'
@@ -158,11 +155,8 @@ export const housesData = [
       'A casa Fiore, traz tons modernos e sóbrios, sua fachada encravada em revestimento marmorizado contrastando com brise retrátil amadeirado na sacada, estampam o recado de que o luxo faz morada aqui. Uma obra de arte com 282 m² construídos, piscina, churrasqueira e imponente pé direito duplo na sala de estar.',
     image: FioreHouse,
     isAvailable: 'Disponível',
+    fachada: Fiore1Lg,
     carouselData: [
-      {
-        image: Fiore1Lg,
-        video: ''
-      },
       {
         image: Fiore3Lg,
         video: ''
@@ -219,11 +213,8 @@ export const housesData = [
     description:
       'A casa Lumina, obteve sua inspiração na imponencia de um diamante sendo lapidado e que reflete a luz ao seu redor. São 297 m² marcados por uma mistura de tons amadeirados, pedra natural e cimento, com uma iluminação moderna e detalhes de acabamento em led, além de um pé direito duplo magnífico com painel de vidro acompanhando uma marcação arredondada semelhante a lapidação da pedra preciosa. Contando com 4 suítes, sendo uma master, 6 banheiros, garagem para 4 carros, piscina com borda de vidro laminado e fire place.',
     image: LuminaHouse,
+    fachada: Lumina1Lg,
     carouselData: [
-      {
-        image: Lumina1Lg,
-        video: ''
-      },
       {
         image: Lumina2Lg,
         video: ''
@@ -272,11 +263,8 @@ export const housesData = [
     description:
       'A casa Reggia foi criada a partir de um conceito arquitetônico único, inspirada na exuberante e imponente Vitória Régia, esta casa parece flutuar do solo em meio ao paisagismo e águas decorativas, destacando-se com suas linhas naturais e detalhes que encantam. São 488m² construídos através de um projeto exclusivo que conta com conceito aberto, integralizando ambientes, abundância de iluminação natural e ventilação cruzada. Casa com 4 suítes, sendo 1 suíte master, amplo espaço gourmet com piscina planejada, cozinha e sala de jantar integralizados com visão privilegiada para a natureza.',
     image: ReggiaHouse,
+    fachada: Reggia1Lg,
     carouselData: [
-      {
-        image: Reggia1Lg,
-        video: ''
-      },
       {
         image: Reggia2Lg,
         video: ''
@@ -329,13 +317,10 @@ export const housesData = [
     tag: 'Última',
     description: '',
     image: Vivendas,
+    fachada: Vivendas1Lg,
     carouselData: [
       {
         image: BannerUltimaLg,
-        video: ''
-      },
-      {
-        image: Vivendas1Lg,
         video: ''
       },
       {
@@ -408,11 +393,8 @@ export const housesData = [
     description:
       'Um magnifico refúgio ao urbano. Esta é a casa Oasis, criada com linhas orgânicas e imponentes através do inconfundível traço do arquiteto Mauricio Melara. Esta obra de arte traz elementos marcante em seus 530m², com 4 suítes, garagens com espaço para 7 carros e amplos ambientes em conceito aberto, conversando com o coração do projeto: uma área de lazer paradisíaca.',
     image: OasisHouse,
+    fachada: Oasis1Lg,
     carouselData: [
-      {
-        image: Oasis1Lg,
-        video: ''
-      },
       {
         image: Oasis2Lg,
         video: ''
