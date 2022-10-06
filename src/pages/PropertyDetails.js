@@ -38,7 +38,6 @@ const PropertyDetails = () => {
       <div className='flex flex-col lg:flex-row lg:items-center lg:justify-between'>
         <div>
           <h2 className='text-2xl font-semibold'>{property.name}</h2>
-          <h3 className='text-lg mb-4'>{property.address}</h3>
         </div>
         <div className='mb-4 lg:mb-0 flex gap-x-2 text-sm'>
           {/* <div className='bg-blue-800 rounded-full text-white px-3 inline-block'>
@@ -108,6 +107,7 @@ const PropertyDetails = () => {
           <br></br>
           <div className='max-w-[768px]'>
             <h2 className='text-2xl font-semibold'>Localização</h2>
+            <h3 className='text-lg mb-4'>{property.address}</h3>
             <div className='mb-8'>
               <img src={property.location} alt='' />
             </div>
