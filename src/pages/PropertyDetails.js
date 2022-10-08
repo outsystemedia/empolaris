@@ -107,7 +107,7 @@ const PropertyDetails = () => {
           <br></br>
           <div className='max-w-[768px]'>
             <h2 className='text-2xl font-semibold'>Localização</h2>
-            <h3 className='text-lg mb-4'>{property.address}</h3>
+            <h3 className='text-base mb-4'>{property.address}</h3>
             <div className='mb-8'>
               <img src={property.location} alt='' />
             </div>
