@@ -34,7 +34,7 @@ const PropertyDetails = () => {
   }
 
   return (
-    <div className='container mx-auto min-h-[800px] mb-14'>
+    <div className='container pt-10 mx-auto min-h-[800px] mb-14'>
       <div className='flex flex-col lg:flex-row lg:items-center lg:justify-between'>
         <div>
           <h2 className='text-2xl font-semibold'>{property.name}</h2>
