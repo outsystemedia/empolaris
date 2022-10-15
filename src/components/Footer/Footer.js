@@ -33,7 +33,7 @@ const Footer = () => {
           className="lg:text-4xl text-3xl md:mb-0 mb-6 lg:leading-normal font-semibold
          md:w-2/5"
         >
-          Fique por dentro dos nossos <span className="text-blue-400">lançamentos</span>
+          Fique por dentro dos nossos <span className="text-blue-700">lançamentos</span>
         </h1>
         <div>
           <form  onSubmit={sendEmail}>
@@ -46,7 +46,7 @@ const Footer = () => {
             />
             <input
               onClick={onClick}
-              className="bg-blue-400 hover:bg-blue-500 duration-300 px-5 py-2.5 font-[Poppins]
+              className="bg-blue-900 hover:bg-blue-700 duration-300 px-5 py-2.5 font-[Poppins]
             rounded-md text-white md:w-auto w-full"
               type="submit"
               value= "Receber novidades"
@@ -60,8 +60,8 @@ const Footer = () => {
         className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10
       text-center pt-2 text-gray-400 text-sm pb-8"
       >
-        <span>© 2022 Polaris Empreendimentos. Todos os direito reservados.</span>
-        <span>Criado por <a className="text-blue-400" href="https://www.outsystemdigital.com" >OutSystem Digital</a></span>
+        <span>© 2022 Polaris Empreendimentos. Todos os direitos reservados.</span>
+        <span>Criado por <a className="text-blue-700" href="https://www.outsystemdigital.com" >OutSystem Digital</a></span>
       </div>
     </footer>
   );

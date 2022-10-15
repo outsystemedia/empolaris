@@ -71,7 +71,7 @@ const Contact5 = () => {
             </div>
             {/* ::Submit Button */}
             <div>
-              <input type="submit" value="Enviar Mensagem" className="py-2 px-6 rounded bg-blue-900 text-base text-white font-semibold uppercase hover:bg-blue-700"></input>
+              <input type="submit" value="Enviar Mensagem" className="py-2 px-6 rounded bg-blue-900 text-base text-white font-semibold hover:bg-blue-700"></input>
             </div>
           </form>
         </div>
@@ -82,11 +82,11 @@ const Contact5 = () => {
         <div className="order-2 md:order-3 col-span-full md:col-span-1 py-5 md:py-10 px-6">
           <div className="mx-auto max-w-xl flex flex-col space-y-5">
             {/* ::Title Contact Us */}
-            <h2 className="text-4xl font-oswald uppercase">Fale conosco</h2>
+            <h2 className="text-4xl">Fale conosco</h2>
             {/* ::Text */}
             {/* <p className="text-sm text-gray-500">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis unde, voluptatibus nemo molestiae iure, repudiandae quaerat ipsam, labore sed dolorem nisi odit at esse ullam suscipit quidem necessitatibus aut modi.</p> */}
             {/* ::Email contact */}
-            <a href="#mail" className="inline-flex items-center text-sm text-blue-400 font-semibold hover:text-blue-500">
+            <a href="#mail" className="inline-flex items-center text-sm text-blue-900 font-semibold hover:text-blue-700">
                 contato@polarisempreendimentos.com
             </a>
             {/* ::Address */}

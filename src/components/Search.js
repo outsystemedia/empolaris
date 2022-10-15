@@ -24,7 +24,7 @@ const Search = () => {
         onClick={() => {
           handleClick();
         }}
-        className='bg-blue-800 hover:bg-blue-800 transition w-full lg:max-w-[162px] h-16 rounded-lg flex justify-center items-center text-white text-lg'
+        className='bg-blue-900 hover:bg-blue-700 transition w-full lg:max-w-[162px] h-16 rounded-lg flex justify-center items-center text-white text-lg'
       >
         <RiSearch2Line />
       </button>
