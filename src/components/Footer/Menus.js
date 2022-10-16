@@ -10,4 +10,5 @@
     { name: "Instagram", link: "https://www.instagram.com/polaris.empreendimentos/" },
     { name: "Facebook", link: "https://www.facebook.com/polaris.emp" },
     { name: "LinkedIn", link: "https://www.linkedin.com/company/polarisempreendimentos/" },
+    { name: "TikTok", link: "https://www.tiktok.com/@polaris.empreendimentos" },
   ];
