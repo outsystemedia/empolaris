@@ -1,8 +1,10 @@
 import emailjs from "emailjs-com";
 import React, { useRef } from 'react'
+import { TabTitle } from "../utils/GeneralFunctions";
 
 
 const Contact5 = () => {
+  TabTitle('Entre em contato | Polaris Empreendimentos');
 
   const nameRef = useRef()
   const emailRef = useRef()

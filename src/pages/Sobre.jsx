@@ -5,8 +5,11 @@ import FeaturesHome from '../components/Sobre/Features';
 import FeaturesBlocks from '../components/Sobre/FeaturesBlocks';
 import Testimonials from '../components/Sobre/Testimonials';
 import Newsletter from '../components/Sobre/Newsletter';
+import { TabTitle } from '../utils/GeneralFunctions';
 
 function Sobre() {
+  TabTitle('Sobre nós | Polaris Empreendimentos');
+
   return (
     <div className="flex flex-col min-h-screen overflow-hidden">
 
