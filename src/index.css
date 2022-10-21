@@ -22,3 +22,11 @@
     @apply px-6 py-8 text-[15px] space-y-6 shadow-md bg-white absolute w-full z-10 list-none rounded-b-lg;
   }
 }
+
+button[name="infinite-carousel-button-previous"] {
+  left: -10px;
+}
+
+button[name="infinite-carousel-button-next"] {
+  right: -10px;
+}
