@@ -222,10 +222,10 @@ const PropertyDetails = () => {
                       {/* tab 1 */}
                       {tab === "Dados" && (
                         <ul className="bullet">
-                          <li>Terreno: {property.surface}</li>
-                          <li>Área Total Construída: {property.built}</li>
-                          <li>Quartos: {property.bedrooms} - Sendo {property.tooltip}</li>
-                          <li>Banheiros: {property.bathrooms}</li>
+                          <li><span className="font-bold">Terreno:</span> {property.surface}</li>
+                          <li><span className="font-bold">Área Total Construída:</span>  {property.built}</li>
+                          <li><span className="font-bold">Quartos:</span> {property.bedrooms} - Sendo {property.tooltip}</li>
+                          <li><span className="font-bold">Banheiros:</span> {property.bathrooms}</li>
                         </ul>
                       )}
 
