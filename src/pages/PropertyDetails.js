@@ -224,6 +224,8 @@ const PropertyDetails = () => {
                         <ul className="bullet">
                           <li>Terreno: {property.surface}</li>
                           <li>Área Total Construída: {property.built}</li>
+                          <li>Quartos: {property.bedrooms} - Sendo {property.tooltip}</li>
+                          <li>Banheiros: {property.bathrooms}</li>
                         </ul>
                       )}
 
@@ -239,6 +241,7 @@ const PropertyDetails = () => {
                                 projetos, obra e operação das edicações, sempre com foco na
                                 sustentabilidade de suas atuações. 
                           </p>
+                          <br />
                           <img
                             src={
                               "https://atex.com.br/pt/wp-content/uploads/2018/10/LEED-Certified-e1539192613716-1.png"

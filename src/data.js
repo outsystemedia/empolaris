@@ -5,6 +5,9 @@ import LuminaHouse from "./assets/img/houses/lumina.png";
 import ReggiaHouse from "./assets/img/houses/reggia.png";
 import Vivendas from "./assets/img/houses/vivendas.png";
 import OasisHouse from "./assets/img/houses/oasis.png";
+import BrizHouse from "./assets/img/houses/briz.png";
+import CortenHouse from "./assets/img/houses/corten.png";
+import CerneHouse from "./assets/img/houses/cerne.png";
 
 //import house location
 import EcchoLocation from "./assets/img/houses/echo-5.jpg";
@@ -13,6 +16,9 @@ import LuminaLocation from "./assets/img/houses/lumina-8.jpg";
 import ReggiaLocation from "./assets/img/houses/reggia-8.jpg";
 import VivendasLocation from "./assets/img/houses/vivendas-5.jpeg";
 import OasisLocation from "./assets/img/houses/oasis-19.jpg";
+import BrizLocation from "./assets/img/houses/briz-location.jpg";
+import CerneLocation from "./assets/img/houses/cerne-location.jpg";
+import CortenLocation from "./assets/img/houses/corten-location.jpg";
 
 // import house large images
 import Eccho1Lg from "./assets/img/houses/echo-1.jpeg";
@@ -79,12 +85,90 @@ import Oasis15Lg from "./assets/img/houses/oasis-15.jpg";
 import Oasis16Lg from "./assets/img/houses/oasis-16.jpg";
 import Oasis17Lg from "./assets/img/houses/oasis-17.jpg";
 import Oasis18Lg from "./assets/img/houses/oasis-18.jpg";
+import Corten1Lg from "./assets/img/houses/corten-1.jpg";
+import Corten2Lg from "./assets/img/houses/corten-2.jpg";
+import Corten3Lg from "./assets/img/houses/corten-3.jpg";
+import Corten4Lg from "./assets/img/houses/corten-4.jpg";
+import Corten5Lg from "./assets/img/houses/corten-5.jpg";
+import Corten6Lg from "./assets/img/houses/corten-6.jpg";
+import Corten7Lg from "./assets/img/houses/corten-7.jpg";
+import Corten8Lg from "./assets/img/houses/corten-8.jpg";
+import Corten9Lg from "./assets/img/houses/corten-9.jpg";
+import Corten10Lg from "./assets/img/houses/corten-10.jpg";
+import Corten11Lg from "./assets/img/houses/corten-11.jpg";
+import Corten12Lg from "./assets/img/houses/corten-12.jpg";
+import Corten13Lg from "./assets/img/houses/corten-13.jpg";
+import Corten14Lg from "./assets/img/houses/corten-14.jpg";
+import Corten15Lg from "./assets/img/houses/corten-15.jpg";
+import Corten16Lg from "./assets/img/houses/corten-16.jpg";
+import Corten17Lg from "./assets/img/houses/corten-17.jpg";
+import Corten18Lg from "./assets/img/houses/corten-18.jpg";
+import Corten19Lg from "./assets/img/houses/corten-19.jpg";
+import Corten20Lg from "./assets/img/houses/corten-20.jpg";
+import Corten21Lg from "./assets/img/houses/corten-21.jpg";
+import Corten22Lg from "./assets/img/houses/corten-22.jpg";
+import Corten23Lg from "./assets/img/houses/corten-23.jpg";
+import Corten24Lg from "./assets/img/houses/corten-24.jpg";
+import Corten25Lg from "./assets/img/houses/corten-25.jpg";
+import Corten26Lg from "./assets/img/houses/corten-26.jpg";
+import CortenFachada from "./assets/img/houses/corten-fachada.jpg";
+import Cerne1Lg from "./assets/img/houses/cerne-1.jpg";
+import Cerne3Lg from "./assets/img/houses/cerne-3.jpg";
+import Cerne4Lg from "./assets/img/houses/cerne-4.jpg";
+import Cerne5Lg from "./assets/img/houses/cerne-5.jpg";
+import Cerne6Lg from "./assets/img/houses/cerne-6.jpg";
+import Cerne7Lg from "./assets/img/houses/cerne-7.jpg";
+import Cerne8Lg from "./assets/img/houses/cerne-8.jpg";
+import Cerne9Lg from "./assets/img/houses/cerne-9.jpg";
+import Cerne10Lg from "./assets/img/houses/cerne-10.jpg";
+import Cerne11Lg from "./assets/img/houses/cerne-11.jpg";
+import Cerne12Lg from "./assets/img/houses/cerne-12.jpg";
+import Cerne13Lg from "./assets/img/houses/cerne-13.jpg";
+import Cerne14Lg from "./assets/img/houses/cerne-14.jpg";
+import Cerne15Lg from "./assets/img/houses/cerne-15.jpg";
+import Cerne16Lg from "./assets/img/houses/cerne-16.jpg";
+import Cerne17Lg from "./assets/img/houses/cerne-17.jpg";
+import Cerne18Lg from "./assets/img/houses/cerne-18.jpg";
+import Cerne19Lg from "./assets/img/houses/cerne-19.jpg";
+import Cerne20Lg from "./assets/img/houses/cerne-20.jpg";
+import Cerne21Lg from "./assets/img/houses/cerne-21.jpg";
+import Cerne22Lg from "./assets/img/houses/cerne-22.jpg";
+import Cerne23Lg from "./assets/img/houses/cerne-23.jpg";
+import Cerne24Lg from "./assets/img/houses/cerne-24.jpg";
+import Cerne25Lg from "./assets/img/houses/cerne-25.jpg";
+import Cerne26Lg from "./assets/img/houses/cerne-26.jpg";
+import Cerne27Lg from "./assets/img/houses/cerne-27.jpg";
+import Cerne28Lg from "./assets/img/houses/cerne-28.jpg";
+import Cerne29Lg from "./assets/img/houses/cerne-29.jpg";
+import CerneFachada from "./assets/img/houses/cerne-fachada.jpg";
+import Briz1Lg from "./assets/img/houses/briz-1.jpg";
+import Briz2Lg from "./assets/img/houses/briz-2.jpg";
+import Briz3Lg from "./assets/img/houses/briz-3.jpg";
+import Briz4Lg from "./assets/img/houses/briz-4.jpg";
+import Briz5Lg from "./assets/img/houses/briz-5.jpg";
+import Briz6Lg from "./assets/img/houses/briz-6.jpg";
+import Briz7Lg from "./assets/img/houses/briz-7.jpg";
+import Briz8Lg from "./assets/img/houses/briz-8.jpg";
+import Briz9Lg from "./assets/img/houses/briz-9.jpg";
+import Briz10Lg from "./assets/img/houses/briz-10.jpg";
+import Briz11Lg from "./assets/img/houses/briz-11.jpg";
+import Briz12Lg from "./assets/img/houses/briz-12.jpg";
+import Briz13Lg from "./assets/img/houses/briz-13.jpg";
+import Briz14Lg from "./assets/img/houses/briz-14.jpg";
+import Briz15Lg from "./assets/img/houses/briz-15.jpg";
+import Briz16Lg from "./assets/img/houses/briz-16.jpg";
+import Briz17Lg from "./assets/img/houses/briz-17.jpg";
+import Briz18Lg from "./assets/img/houses/briz-18.jpg";
+import Briz20Lg from "./assets/img/houses/briz-20.jpg";
+import Briz21Lg from "./assets/img/houses/briz-21.jpg";
+import BrizFachada from "./assets/img/houses/briz-fachada.jpg";
+
 
 // import agents images
 import Agent1 from "./assets/img/agents/agent1.png";
 
 // array of houseId
-export const recommendations = [1, 2, 3, 4, 5];
+export const recommendations = [9, 7, 8, 6, 1, 2, 3, 4, 5];
 
 export const housesData = [
   {
@@ -522,6 +606,398 @@ export const housesData = [
       phone: "47 3224-1847",
     },
     topics: ["Acabamento extra premium com concreto aparente, madeira ecológica, alumínio e textura"],
+    googleMap:
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3549.8367591680917!2d-48.606460634949755!3d-27.16142588302115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8aff4f5353045%3A0x1d2b70e6ba6b1ab1!2sVivapark%20Porto%20Belo!5e0!3m2!1spt-BR!2sbr!4v1666359103324!5m2!1spt-BR!2sbr",
+  },
+  {
+    id: 7,
+    type: "Casa",
+    name: "Cerne",
+    isAvailable: "Disponível",
+    description:
+      "Um projeto imponente e com linhas bem definidas que trazem o aconchego dos tons amadeirados em casamento perfeito com a força da pedra e metal",
+    image: CerneHouse,
+    fachada: CerneFachada,
+    carouselData: [
+      {
+        image: Cerne1Lg,
+        video: "",
+      },
+      {
+        image: Cerne3Lg,
+        video: "",
+      },
+      {
+        image: Cerne4Lg,
+        video: "",
+      },
+      {
+        image: Cerne5Lg,
+        video: "",
+      },
+      {
+        image: Cerne6Lg,
+        video: "",
+      },
+      {
+        image: Cerne7Lg,
+        video: "",
+      },
+      {
+        image: Cerne8Lg,
+        video: "",
+      },
+      {
+        image: Cerne9Lg,
+        video: "",
+      },
+      {
+        image: Cerne10Lg,
+        video: "",
+      },
+      {
+        image: Cerne11Lg,
+        video: "",
+      },
+      {
+        image: Cerne12Lg,
+        video: "",
+      },
+      {
+        image: Cerne13Lg,
+        video: "",
+      },
+      {
+        image: Cerne14Lg,
+        video: "",
+      },
+      {
+        image: Cerne15Lg,
+        video: "",
+      },
+      {
+        image: Cerne16Lg,
+        video: "",
+      },
+      {
+        image: Cerne17Lg,
+        video: "",
+      },
+      {
+        image: Cerne18Lg,
+        video: "",
+      },
+      {
+        image: Cerne19Lg,
+        video: "",
+      },
+      {
+        image: Cerne20Lg,
+        video: "",
+      },
+      {
+        image: Cerne21Lg,
+        video: "",
+      },
+      {
+        image: Cerne22Lg,
+        video: "",
+      },
+      {
+        image: Cerne23Lg,
+        video: "",
+      },
+      {
+        image: Cerne24Lg,
+        video: "",
+      },
+      {
+        image: Cerne25Lg,
+        video: "",
+      },
+      {
+        image: Cerne26Lg,
+        video: "",
+      },
+      {
+        image: Cerne27Lg,
+        video: "",
+      },
+      {
+        image: Cerne28Lg,
+        video: "",
+      },
+      {
+        image: Cerne29Lg,
+        video: "",
+      },
+    ],
+    country: "Porto Belo",
+    address: "Viva Park Porto Belo | Quadra 25 | Lote 17",
+    bedrooms: "4",
+    bathrooms: "7",
+    surface: "360m²",
+    built: "290m²",
+    price: "4095864",
+    pricepage: "4.095.864",
+    tooltip: "4 Suítes",
+    certificate: true,
+    community: true,
+    location: CerneLocation,
+    agent: {
+      image: Agent1,
+      name: "Eduardo Topanotti",
+      phone: "47 3224-1847",
+    },
+    topics: ["Soberana em cada traço", "Garagem para 4 carros", "Living com pé direito duplo", "Cozinha Multifuncional", "Amplo espaço Gourmet", "Piscina planejada"],
+    googleMap:
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3549.8367591680917!2d-48.606460634949755!3d-27.16142588302115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8aff4f5353045%3A0x1d2b70e6ba6b1ab1!2sVivapark%20Porto%20Belo!5e0!3m2!1spt-BR!2sbr!4v1666359103324!5m2!1spt-BR!2sbr",
+  },
+  {
+    id: 8,
+    type: "Casa",
+    name: "Briz",
+    isAvailable: "Disponível",
+    description:
+      "Esta casa foi desenhada em tons praianos e leves, contemplando a fluidez de uma fachada que repousa sobre uma base de pedras naturais.",
+    image: BrizHouse,
+    fachada: BrizFachada,
+    carouselData: [
+      {
+        image: Briz1Lg,
+        video: "",
+      },
+      {
+        image: Briz2Lg,
+        video: "",
+      },
+      {
+        image: Briz3Lg,
+        video: "",
+      },
+      {
+        image: Briz4Lg,
+        video: "",
+      },
+      {
+        image: Briz5Lg,
+        video: "",
+      },
+      {
+        image: Briz6Lg,
+        video: "",
+      },
+      {
+        image: Briz7Lg,
+        video: "",
+      },
+      {
+        image: Briz8Lg,
+        video: "",
+      },
+      {
+        image: Briz9Lg,
+        video: "",
+      },
+      {
+        image: Briz10Lg,
+        video: "",
+      },
+      {
+        image: Briz11Lg,
+        video: "",
+      },
+      {
+        image: Briz12Lg,
+        video: "",
+      },
+      {
+        image: Briz13Lg,
+        video: "",
+      },
+      {
+        image: Briz14Lg,
+        video: "",
+      },
+      {
+        image: Briz15Lg,
+        video: "",
+      },
+      {
+        image: Briz16Lg,
+        video: "",
+      },
+      {
+        image: Briz17Lg,
+        video: "",
+      },
+      {
+        image: Briz18Lg,
+        video: "",
+      },
+      {
+        image: Briz20Lg,
+        video: "",
+      },
+      {
+        image: Briz21Lg,
+        video: "",
+      },
+    ],
+    country: "Porto Belo",
+    address: "Viva Park Porto Belo | Quadra 29 | Lote 08",
+    bedrooms: "4",
+    bathrooms: "6",
+    surface: "390m²",
+    built: "361m²",
+    price: "5125490",
+    pricepage: "5.125.490",
+    tooltip: "4 Suítes",
+    certificate: true,
+    community: true,
+    location: BrizLocation,
+    agent: {
+      image: Agent1,
+      name: "Eduardo Topanotti",
+      phone: "47 3224-1847",
+    },
+    topics: ["Leve como uma brisa que vem do mar", "Garagem para 4 carros", "Home Office", "Elevador", "Amplo espaço Gourmet", "Piscina planejada"],
+    googleMap:
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3549.8367591680917!2d-48.606460634949755!3d-27.16142588302115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8aff4f5353045%3A0x1d2b70e6ba6b1ab1!2sVivapark%20Porto%20Belo!5e0!3m2!1spt-BR!2sbr!4v1666359103324!5m2!1spt-BR!2sbr",
+  },
+  {
+    id: 9,
+    type: "Casa",
+    name: "Corten",
+    isAvailable: "Disponível",
+    description:
+      "Um projeto reservado ao externo, mas completamente aberto ao convívio",
+    image: CortenHouse,
+    fachada: CortenFachada,
+    carouselData: [
+      {
+        image: Corten25Lg,
+        video: "",
+      },
+      {
+        image: Corten2Lg,
+        video: "",
+      },
+      {
+        image: Corten3Lg,
+        video: "",
+      },
+      {
+        image: Corten4Lg,
+        video: "",
+      },
+      {
+        image: Corten5Lg,
+        video: "",
+      },
+      {
+        image: Corten6Lg,
+        video: "",
+      },
+      {
+        image: Corten7Lg,
+        video: "",
+      },
+      {
+        image: Corten8Lg,
+        video: "",
+      },
+      {
+        image: Corten9Lg,
+        video: "",
+      },
+      {
+        image: Corten10Lg,
+        video: "",
+      },
+      {
+        image: Corten11Lg,
+        video: "",
+      },
+      {
+        image: Corten12Lg,
+        video: "",
+      },
+      {
+        image: Corten13Lg,
+        video: "",
+      },
+      {
+        image: Corten14Lg,
+        video: "",
+      },
+      {
+        image: Corten15Lg,
+        video: "",
+      },
+      {
+        image: Corten16Lg,
+        video: "",
+      },
+      {
+        image: Corten17Lg,
+        video: "",
+      },
+      {
+        image: Corten18Lg,
+        video: "",
+      },
+      {
+        image: Corten19Lg,
+        video: "",
+      },
+      {
+        image: Corten20Lg,
+        video: "",
+      },
+      {
+        image: Corten21Lg,
+        video: "",
+      },
+      {
+        image: Corten22Lg,
+        video: "",
+      },
+      {
+        image: Corten23Lg,
+        video: "",
+      },
+      {
+        image: Corten24Lg,
+        video: "",
+      },
+      {
+        image: Corten1Lg,
+        video: "",
+      },
+      {
+        image: Corten26Lg,
+        video: "",
+      },
+    ],
+    country: "Porto Belo",
+    address: "Viva Park Porto Belo | Quadra 13 | Lote 16",
+    bedrooms: "4",
+    bathrooms: "6",
+    surface: "360m²",
+    built: "341m²",
+    price: "4805800",
+    pricepage: "4.805.800",
+    tooltip: "4 Suítes",
+    certificate: true,
+    community: true,
+    location: CortenLocation,
+    agent: {
+      image: Agent1,
+      name: "Eduardo Topanotti",
+      phone: "47 3224-1847",
+    },
+    topics: ["Sintonia entre sobriedade e imponência", "Garagem para 4 carros", "Living Integrado", "Amplo espaço Gourmet", "Piscina planejada"],
     googleMap:
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3549.8367591680917!2d-48.606460634949755!3d-27.16142588302115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8aff4f5353045%3A0x1d2b70e6ba6b1ab1!2sVivapark%20Porto%20Belo!5e0!3m2!1spt-BR!2sbr!4v1666359103324!5m2!1spt-BR!2sbr",
   },
