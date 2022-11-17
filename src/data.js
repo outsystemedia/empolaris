@@ -738,7 +738,7 @@ export const housesData = [
     bathrooms: "5",
     surface: "360m²",
     built: "290m²",
-    price: "4095864",
+    price: "4950900",
     pricepage: "4.950.900",
     tooltip: "4 Suítes",
     certificate: true,
