@@ -233,7 +233,7 @@ export const housesData = [
       name: "Eduardo Topanotti",
       phone: "47 3224-1847",
     },
-    topics: ["Piscina planejada", "Área Goumert", "Conceito Aberto", "Automações", "Amplo Jardim e área verde privativa"],
+    topics: ["Piscina planejada", "Área Goumert", "Selo Leed Platinum", "Conceito Aberto", "Automações", "Amplo Jardim e área verde privativa"],
     certificate: true,
     community: true,
     googleMap:
@@ -297,7 +297,7 @@ export const housesData = [
       name: "Eduardo Topanotti",
       phone: "47 3224-1847",
     },
-    topics: ["Churrasqueira planejada", "Sala com pé direito duplo", "Automações"],
+    topics: ["Churrasqueira planejada", "Selo Leed Platinum", "Sala com pé direito duplo", "Automações"],
     certificate: true,
     community: true,
     googleMap:
@@ -355,7 +355,7 @@ export const housesData = [
       name: "Eduardo Topanotti",
       phone: "47 3224-1847",
     },
-    topics: ["Amplo Jardim e área verde privativa", "Iluminação de led", "Pé direito duplo", "Acabamento premium com concreto aparente, textura e pedra natural"],
+    topics: ["Amplo Jardim e área verde privativa", "Iluminação de led", "Selo Leed Platinum", "Pé direito duplo", "Acabamento premium com concreto aparente, textura e pedra natural"],
     googleMap:
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3549.8367591680917!2d-48.606460634949755!3d-27.16142588302115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8aff4f5353045%3A0x1d2b70e6ba6b1ab1!2sVivapark%20Porto%20Belo!5e0!3m2!1spt-BR!2sbr!4v1666359103324!5m2!1spt-BR!2sbr",
   },
@@ -417,6 +417,7 @@ export const housesData = [
     },
     topics: [
       "Amplo Jardim e área verde privativa",
+      "Selo Leed Platinum",
       "Casa elevada do solo em mezanino (1m)",
       "Acabamento premium com concreto aparente, textura e pedra natural",
       "Piso porcelanato 1,20m x 1,20m",
@@ -505,7 +506,7 @@ export const housesData = [
       name: "Eduardo Topanotti",
       phone: "47 3224-1847",
     },
-    topics: ["Conforto e praticidade", "Excelente Localização"],
+    topics: ["Conforto e praticidade", "Excelente Localização", "Selo Leed Platinum"],
     googleMap:
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1055.4965198894868!2d-48.51752832637305!3d-27.148330178163786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8a44c85a6ec89%3A0x7ce470574682b87a!2sR.%20Crispim%2C%201235%20-%20Bombas%2C%20Bombinhas%20-%20SC%2C%2088215-000!5e0!3m2!1spt-BR!2sbr!4v1666359247439!5m2!1spt-BR!2sbr",
   },
@@ -605,7 +606,7 @@ export const housesData = [
       name: "Eduardo Topanotti",
       phone: "47 3224-1847",
     },
-    topics: ["Acabamento extra premium com concreto aparente, madeira ecológica, alumínio e textura"],
+    topics: ["Acabamento extra premium com concreto aparente, madeira ecológica, alumínio e textura", "Selo Leed Platinum"],
     googleMap:
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3549.8367591680917!2d-48.606460634949755!3d-27.16142588302115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8aff4f5353045%3A0x1d2b70e6ba6b1ab1!2sVivapark%20Porto%20Belo!5e0!3m2!1spt-BR!2sbr!4v1666359103324!5m2!1spt-BR!2sbr",
   },
@@ -749,7 +750,7 @@ export const housesData = [
       name: "Eduardo Topanotti",
       phone: "47 3224-1847",
     },
-    topics: ["Soberana em cada traço", "Garagem para 4 carros", "Living com pé direito duplo", "Cozinha Multifuncional", "Amplo espaço Gourmet", "Piscina planejada"],
+    topics: ["Soberana em cada traço", "Garagem para 4 carros", "Selo Leed Platinum", "Living com pé direito duplo", "Cozinha Multifuncional", "Amplo espaço Gourmet", "Piscina planejada"],
     googleMap:
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3549.8367591680917!2d-48.606460634949755!3d-27.16142588302115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8aff4f5353045%3A0x1d2b70e6ba6b1ab1!2sVivapark%20Porto%20Belo!5e0!3m2!1spt-BR!2sbr!4v1666359103324!5m2!1spt-BR!2sbr",
   },
@@ -861,7 +862,7 @@ export const housesData = [
       name: "Eduardo Topanotti",
       phone: "47 3224-1847",
     },
-    topics: ["Leve como uma brisa que vem do mar", "Garagem para 4 carros", "Home Office", "Elevador", "Amplo espaço Gourmet", "Piscina planejada"],
+    topics: ["Leve como uma brisa que vem do mar", "Garagem para 4 carros", "Selo Leed Platinum", "Home Office", "Elevador", "Amplo espaço Gourmet", "Piscina planejada"],
     googleMap:
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3549.8367591680917!2d-48.606460634949755!3d-27.16142588302115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8aff4f5353045%3A0x1d2b70e6ba6b1ab1!2sVivapark%20Porto%20Belo!5e0!3m2!1spt-BR!2sbr!4v1666359103324!5m2!1spt-BR!2sbr",
   },
@@ -997,7 +998,7 @@ export const housesData = [
       name: "Eduardo Topanotti",
       phone: "47 3224-1847",
     },
-    topics: ["Sintonia entre sobriedade e imponência", "Garagem para 4 carros", "Living Integrado", "Amplo espaço Gourmet", "Piscina planejada"],
+    topics: ["Sintonia entre sobriedade e imponência", "Garagem para 4 carros", "Selo Leed Platinum", "Living Integrado", "Amplo espaço Gourmet", "Piscina planejada"],
     googleMap:
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3549.8367591680917!2d-48.606460634949755!3d-27.16142588302115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8aff4f5353045%3A0x1d2b70e6ba6b1ab1!2sVivapark%20Porto%20Belo!5e0!3m2!1spt-BR!2sbr!4v1666359103324!5m2!1spt-BR!2sbr",
   },
